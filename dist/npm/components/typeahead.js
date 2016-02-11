@@ -199,7 +199,7 @@ module.exports = React.createClass({
                     className: className + ' react-typeahead-usertext',
                     style: {
                         position: 'relative',
-                        background: 'transparent'
+                        background: 'rgba(0,0,0,0)'
                     }}
                 )
             )
